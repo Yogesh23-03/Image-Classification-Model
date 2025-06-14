@@ -1,16 +1,3 @@
-# Image-Classification-Model
-COMPANY: CODETECH IT SOLUTIONS 
-
-NAME: Yogesh S
-
-INTERN ID: CT04WT294
-
-DOMAIN: Machine Learning
-
-DURATION: 4 weeks from April 5th to May 5th, 2025 
-
-MENTOR: NEELA SANTOSH
-
 Image Classification Project on CIFAR-10
 This project implements an image classification model on the CIFAR-10 dataset. The goal is to accurately classify images into one of the 10 predefined classes.
 
